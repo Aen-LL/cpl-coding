@@ -1,5 +1,3 @@
 {
-    "files.associations": {
-        "stdio.h": "c"
-    }
+    "cmake.sourceDirectory": "/home/aen/code/C/cpl-coding/0-intro"
 }
